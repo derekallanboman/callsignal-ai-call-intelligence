@@ -1,16 +1,16 @@
-# CallSignal – AI Call Intelligence Prototype
+# ChannelRoute AI – Call Intelligence Prototype
 
-CallSignal is a browser-based prototype developed by **Derek Allan Boman** to demonstrate AI-assisted outbound communication workflows.
+ChannelRoute AI is a browser-based prototype developed by **Derek Allan Boman** to demonstrate AI-assisted outbound communication workflows.
 
 The system models multi-channel dialing, human detection, call prioritization, and time-to-connect optimization.
 
 ## Core Concept
 
-The core idea behind CallSignal is simple:
+The core idea behind ChannelRoute AI is simple:
 
 **Reduce wasted dialing time and help identify live-human interactions faster.**
 
-CallSignal is designed as a practical proof-of-concept for outbound communication efficiency, showing how software can support better use of agent attention and improve real-time communication workflows.
+ChannelRoute AI is designed as a practical proof-of-concept for outbound communication efficiency, showing how software can support better use of agent attention and improve real-time communication workflows.
 
 ---
 
@@ -29,7 +29,7 @@ CallSignal is designed as a practical proof-of-concept for outbound communicatio
 
 Outbound calling workflows often waste time on unanswered calls, voicemail, wrong parties, and inefficient manual preparation.
 
-CallSignal explores how software can help prioritize promising live-human interactions faster and support better real-time decision-making.
+ChannelRoute AI explores how software can help prioritize promising live-human interactions faster and support better real-time decision-making.
 
 ---
 
